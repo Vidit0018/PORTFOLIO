@@ -157,3 +157,59 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+function openproj(i){
+  switch (i) {
+    case 1:
+      window.open("https://pinkaware.onrender.com", '_blank');
+      break;
+  
+    case 2:
+      window.open("https://sportify-otzv.onrender.com/signup", '_blank');
+      break;
+  
+    case 3:
+      window.open("https://vidit-ttt.netlify.app/", '_blank');
+      break;
+  
+    case 4:
+      window.open("https://swiftchat-app.netlify.app/", '_blank');
+      break;
+  
+    case 5:
+      window.open("https://the-artist-paradise.netlify.app/", '_blank');
+      break;
+  
+    case 6:
+      window.open("https://vidit0018.github.io/SIH-FINAL/", '_blank');
+      break;
+
+    case 7:
+      window.open("https://iclone-vidit.netlify.app/", '_blank');
+      break;
+  
+    case 8:
+      window.open("https://timetriumph.netlify.app/", '_blank');
+      break;
+  
+    case 9:
+      window.open("https://actionplanner.netlify.app", '_blank');
+      break;
+  
+    case 10:
+      window.open("https://vidit-investment-calculator.netlify.app", '_blank');
+      break;
+  
+  
+    case 11:
+      window.open("https://nestquest-global.netlify.app", '_blank');
+      break;
+  
+    case 12:
+      window.open("https://vaultgaurd.netlify.app/", '_blank');
+      break;
+  
+    default:
+      break;
+  }
+ 
+}
