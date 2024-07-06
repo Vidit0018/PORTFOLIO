@@ -208,6 +208,10 @@ function openproj(i){
       window.open("https://vaultgaurd.netlify.app/", '_blank');
       break;
   
+    case 13:
+      window.open("https://magicui-landingpage.vercel.app/", '_blank');
+      break;
+  
     default:
       break;
   }
