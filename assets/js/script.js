@@ -212,7 +212,7 @@ function openproj(i){
       window.open("https://magicui-landingpage.vercel.app/", '_blank');
       break;
     case 14:
-      window.open("https://github.com/Vidit0018/Google-Docs-Cross-Platform-Clonec:\Users\vidit\Downloads\cosmic quiz.gif", '_blank');
+      window.open("https://github.com/Vidit0018/Google-Docs-Cross-Platform-Clone", '_blank');
       break;
     case 15:
       window.open("https://github.com/Vidit0018/Dishcovery", '_blank');
